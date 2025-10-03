@@ -1,0 +1,13 @@
+I initially did not ask it for proper documentation, so that explains the reason for the AI giving the bare minimum in regards to
+the amount of info it returns. While it gives the bare minimum to explain what it is doing, its clearly just that, the bare minimum.
+
+The mathematical formulas all check out, and all the tests showed full success in testing each of the given shapes.
+
+In hindsight, a couple follow-up iterations could have been helpful to clear the air in some places, such as the aforementioned
+method comments.
+
+One thing that is helpful to an extent is that since the code has few iterations, the AI has less backtracking to do to cover
+all prior info, which kept the coding convention similar throughout
+
+I tested a couple edge cases, I could have tested more though, and was content to see it simply state I was putting in
+invalid answers or answers that were too large and move on.
